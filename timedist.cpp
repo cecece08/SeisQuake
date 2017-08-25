@@ -1,6 +1,6 @@
 //-----------------------------------------------------------------------------
 // Source: timedist.cpp
-// Module: focimt
+// Module: focimtt
 // Class for storing time-distance pairs.
 //
 // Copyright (c) 2013-2015, Grzegorz Kwiatek.
